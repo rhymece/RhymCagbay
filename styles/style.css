@@ -80,5 +80,32 @@ header {
     clear: both;
 }
 
+/* Responsive CSS styling*/
+@media only screen and (max-width:600px){
+    #content {
+        width: 100%;
+    }
+    header {
+        width: 25%;
+        font-size: 50%;
+    }
+    .home-grid {
+        width: 50%;
+        font-size: 75%;
 
+    }
+}
+@media only screen and (min-width:600px){
+     #content {
+        width: 100%;
+    }
+    header {
+        width: 25%;
+        font-size: 75%;
+    }
+    .home-grid {
+        width: 50%;
+        font-size: 90%;
 
+    }
+}
