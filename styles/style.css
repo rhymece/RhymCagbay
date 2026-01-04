@@ -86,7 +86,7 @@ header {
         width: 100%;
     }
     header {
-        margin-top: 50%;
+        padding-top: 6rem;
         width: 30%;
         font-size: 30%;
     }
