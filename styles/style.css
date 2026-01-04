@@ -92,8 +92,10 @@ header {
     }
     .home-grid {
         width: 50%;
+        margin: 0;
+        padding-left: 5px;
     }
-    .content-grid {
+    .content-grid, #intro  {
         font-size: 50%;
     }
 }
@@ -105,7 +107,7 @@ header {
         width: 25%;
         font-size: 75%;
     }
-    .home-grid {
+    .home-grid{
         width: 50%;
         font-size: 90%;
 
