@@ -86,13 +86,15 @@ header {
         width: 100%;
     }
     header {
+        margin-top: 50%;
         width: 30%;
         font-size: 30%;
     }
     .home-grid {
         width: 50%;
-        font-size: 65%;
-
+    }
+    .content-grid {
+        font-size: 50%;
     }
 }
 @media only screen and (min-width:600px){
