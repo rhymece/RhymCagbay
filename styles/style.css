@@ -92,7 +92,7 @@ header {
     }
     .home-grid {
         width: 50%;
-        margin: 0;
+        margin: 2rem;
         padding-left: 5px;
     }
     .content-grid, #intro  {
@@ -100,7 +100,7 @@ header {
         padding: 0;
     }
     #intro {
-        margin: 0;
+        margin-top: 2rem;
     }
 
 }
