@@ -97,7 +97,6 @@ header {
     .home-grid {
         width: 50%;
         margin: 2rem;
-        padding-left: 5px;
     }
     .content-grid, #intro  {
         font-size: 10px;
